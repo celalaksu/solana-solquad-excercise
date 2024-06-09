@@ -1,7 +1,7 @@
 import * as anchor from "@coral-xyz/anchor";
 import { Program } from "@coral-xyz/anchor";
 import { SolanaSolquadExcercise } from "../target/types/solana_solquad_excercise";
-import idl from "../target/idl/solana_solquad_excercise.json"
+import Idl from "../target/idl/solana_solquad_excercise.json"
 
 
 import { utf8 } from "@coral-xyz/anchor/dist/cjs/utils/bytes";
